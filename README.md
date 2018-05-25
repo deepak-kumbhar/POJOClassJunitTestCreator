@@ -1,7 +1,7 @@
 # POJOClassJunitTestCreator
 This application will create basic POJO class test cases easily by providing class name and variables of that particular class.
 
-This application is created in JSP, Servlet
+This application is created in JSP, Servlet, Have added screenshots as well to see the output.
 
 For now initial phase I have only assumed the **String, Integer, Double and Boolean** values. Currently working on other Datatypes.
 
