@@ -6,6 +6,7 @@ This application is created in JSP, Servlet
 For now initial phase I have only assumed the String, Integer, Double and Boolean values. Currently working on other Datatypes.
 
 Example,
+
 Let's consider you have POJO class name EmployeeModel and it has two to three variables as follows
 
 class EmployeeModel{
